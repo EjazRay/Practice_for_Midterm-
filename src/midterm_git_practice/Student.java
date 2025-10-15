@@ -12,15 +12,6 @@ public class Student {
     private String name; // variables private 
    private int sid; // principle "encapsulation"
 private int sem;
-private String course; 
-
-    public String getCourse() {
-        return course;
-    }
-
-    public void setCourse(String course) {
-        this.course = course;
-    }
     /**
      * @return the name
      */
