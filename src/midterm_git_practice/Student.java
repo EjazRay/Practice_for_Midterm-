@@ -12,6 +12,17 @@ public class Student {
     private String name; // variables private 
    private int sid; // principle "encapsulation"
 private int sem;
+private String grade; 
+
+    public String getGrade() {
+        return grade;
+    }
+
+    public void setGrade(String grade) {
+        this.grade = grade;
+    }
+
+
     /**
      * @return the name
      */
