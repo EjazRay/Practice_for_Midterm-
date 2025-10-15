@@ -12,6 +12,7 @@ public class Student {
     private String name; // variables private 
    private int sid; // principle "encapsulation"
 private int sem;
+    // Is this needed? Can you add more code 
 private String grade; 
 
     public String getGrade() {
@@ -65,3 +66,4 @@ private String grade;
         this.sem = sem;
     }
 }
+
