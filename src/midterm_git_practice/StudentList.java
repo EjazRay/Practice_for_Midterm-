@@ -51,6 +51,8 @@ public class StudentList {
     [1]=s2 ;
     list 
     [2]=s3 ;
+    
+    System.out.println("Enter the student grade");
 
 for(int i=0;i<list.length;i++)
        {
